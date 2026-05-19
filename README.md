@@ -1,6 +1,6 @@
 # 📚 Inspirational Quotes App
 
-![Inspirational Quotes UI](../quote-app//docs//images/home.png)
+![img](docs/images/home.png)
 
 A full-stack web application that scrapes inspirational quotes from the web, stores them in a database, and displays them beautifully on a responsive UI using Laravel + Livewire + Puppeteer.
 
